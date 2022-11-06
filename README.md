@@ -1,2 +1,0 @@
-# uesquivel
-Full Stack Developer
